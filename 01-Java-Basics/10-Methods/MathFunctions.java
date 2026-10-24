@@ -31,4 +31,4 @@ public class MathFunctions {
         System.out.println("Floor: " + Math.floor(number));
     }
 }
-```
+
